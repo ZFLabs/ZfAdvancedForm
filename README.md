@@ -41,7 +41,7 @@ Using the Select2
 ```
 
       $form = $this->form;
-      $form->setAttribute('action', $this->url('WebDo/default', array('action' => 'sendMessage')));
+      $form->setAttribute('action', $this->url('default', array('action' => 'envite')));
       $form->prepare();
       
       echo $this->form()->openTag($form);
