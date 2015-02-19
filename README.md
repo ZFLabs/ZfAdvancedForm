@@ -26,7 +26,7 @@ Using the Select2
          'type' => 'Select2',
      ))
 
-     or
+    // or
      
      $this->add(array(
           'name' => 'address',
