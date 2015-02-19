@@ -8,7 +8,7 @@ Installation
 
 ```
 
-    composer require zendframework/zend-developer-tools:dev-master
+    composer require ZFLabs/ZfAdvancedForm:dev-master
     
  ````
 
